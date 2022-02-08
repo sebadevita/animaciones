@@ -16,6 +16,9 @@ body {
   border: 3px solid #5224b7;
   border-radius: 50%;
   border-top: 3px solid transparent;
+}
+
+.card:last-child {
   animation: spin 2s linear infinite;
 }
 

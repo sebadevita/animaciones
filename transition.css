@@ -101,7 +101,7 @@ p {
   justify-content: center;
   display: flex;
   flex-direction: column;
-  transition: transfrm 0.5s, rotate 0.5s, background-color 0.3s;
+  transition: transform 0.5s, rotate 0.5s, background-color 0.3s;
 }
 
 .cardPaso:hover {
